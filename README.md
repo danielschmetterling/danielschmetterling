@@ -3,6 +3,7 @@
 I'm a Brazilian second-year Software Engineering student at PUCPR in Curitiba. From a technical perspective, I enjoy understanding the logic behind technologies and project organization.
 
 ## My current projects:
+For now, they are all in portuguese.
 * [A.S.H.](https://github.com/orgs/chaoticdevs-pucpr/projects/2/views/3) | [Repository](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project)
 * [WIB](https://github.com/orgs/chaoticdevs-pucpr/projects/3/views/1) | [Repository](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) *(Not started yet)*
 * [Random University Group Repository](https://github.com/chaoticdevs-pucpr/1SEM2026)
