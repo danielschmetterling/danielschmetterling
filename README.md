@@ -5,7 +5,7 @@ I'm a Brazilian second-year Software Engineering student at PUCPR in Curitiba. F
 ## My currently projects:
 * [A.S.H.](https://github.com/orgs/chaoticdevs-pucpr/projects/2/views/3): [Repositorie](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project)
 * [WIB](https://github.com/orgs/chaoticdevs-pucpr/projects/3/views/1): [Repositorie](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) (Not started Yet)
-*[Random University Group Repositorie](https://github.com/chaoticdevs-pucpr/1SEM2026)
+* [Random University Group Repositorie](https://github.com/chaoticdevs-pucpr/1SEM2026)
 
 ### For now, i'm learning
 * **Languages & DataBase:** HTML & CSS, JavaScript, PHP, MySQL, Python, and Java.
