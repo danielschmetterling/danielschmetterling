@@ -8,6 +8,9 @@ For now, they are all in portuguese.
 * [WIB](https://github.com/orgs/chaoticdevs-pucpr/projects/3/views/1) | [Repository](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) *(Not started yet)*
 * [Random University Group Repository](https://github.com/chaoticdevs-pucpr/1SEM2026)
 
+## My Personal Repositories:
+* [Personal University Repositoriy](https://github.com/danielschmetterling/EngSoftware.pucpr)
+
 ### What I'm currently learning
 * **Languages & DataBase:** HTML & CSS, JavaScript, PHP, MySQL, Python, and Java.
 * **Software Engineering:** How to structure a good software project, including teamwork/collaboration and implementation methods.
