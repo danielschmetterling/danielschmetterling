@@ -18,7 +18,7 @@ For now, they are all in portuguese.
 ### Contact:
 * **E-mail:** nielestuda@gmail.com
 
-*I learned English informally, but I consider myself fluent :) I am also currently studying German. You can find more links on my GitHub profile sidebar.*
+*I learned English informally, but I consider myself almost fluent :) I am also currently studying German. You can find more links on my GitHub profile sidebar.*
 
 <!--
 **danielschmetterling/danielschmetterling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
